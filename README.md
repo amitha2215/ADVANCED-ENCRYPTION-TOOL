@@ -29,3 +29,5 @@ This tool encrypts and decrypts files using AES-256 encryption.
 
 OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/488a13ad-8622-479c-84db-9c3b47e575a1)
+
